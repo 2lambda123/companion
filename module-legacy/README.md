@@ -49,6 +49,8 @@ The updated timing of calls and the use of asynchronous methods can help to fix 
 
 ### Migrating a module to not rely on this wrapper
 
+For a guide on migrating a module to not rely on this wrapper, refer to https://github.com/bitfocus/companion-module-base/wiki/Upgrading-a-module-built-for-Companion-3.0
+
 There is a guide available at https://github.com/bitfocus/companion-module-base/wiki/Upgrading-a-module-built-for-Companion-2.x
 
 ### Hacks
