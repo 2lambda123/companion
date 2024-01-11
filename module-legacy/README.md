@@ -40,12 +40,12 @@ Any calls made to `system.emit(....)` in modules may now have different timing. 
 
 The same is true of calls to `self.parseVariables()`.
 
-It is possible that some uses of system may have broken in this change. It is very hard for us to discover the events that modules are emitting or listening for so it is very possible that some were missed. We can add them to this wrapper to minimise module breakage, but they likely wont be supported in the new api unless they are separately requested.
+The updated timing of calls and the use of asynchronous methods can help to fix these issues. Additionally, we can add the missed events to the wrapper to minimize module breakage, but they may not be supported in the new API unless they are separately requested.
 
 ### Getting started
 
 - Run `yarn` to install the modules and dependencies
-- Start companion
+- Start companion. Ensure that calls to system.emit() and self.parseVariables() are handled asynchronously.
 
 ### Migrating a module to not rely on this wrapper
 
