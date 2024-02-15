@@ -1,6 +1,6 @@
-Steps is a new concept in 3.0, to allow for creating much more powerful and complex buttons. This replaces the **Latch** functionality that was possible in previous versions.
+Steps is a new concept in 3.0, aimed at creating more powerful and complex buttons. It replaces the **Latch** functionality found in previous versions. For information about the relationship between steps and actions, refer to the file "[docs/3_config/buttons/actions.md](docs/3_config/buttons/actions.md)".
 
-To start with steps, click the **Add step** tab on a button. You will now have a second tab of actions on the button
+To start working with steps, click the **Add step** tab on a button. This will provide a second tab of actions on the button. For details about the relationship between steps and actions, see "[docs/3_config/buttons/actions.md](docs/3_config/buttons/actions.md)".
 
 ![Button Step 2](images/button-step2.png?raw=true 'Button Step 2')
 
