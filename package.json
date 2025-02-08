@@ -86,7 +86,7 @@
 		"osc": "^2.4.4",
 		"p-debounce": "^4.0.0",
 		"p-queue": "^7.4.1",
-		"path-to-regexp": "^6.2.1",
+		"path-to-regexp": "^6.3.0",
 		"pngjs": "^7.0.0",
 		"respawn": "link:./vendor/respawn",
 		"selfsigned": "^2.1.1",
