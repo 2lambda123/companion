@@ -235,7 +235,7 @@
     "companion-module-wyrestorm-sw0402mv": "github:bitfocus/companion-module-wyrestorm-sw0402mv#v1.0.3",
     "companion-module-xiamen-sprolink-vd-series": "github:bitfocus/companion-module-xiamen-sprolink-vd-series#v1.0.3",
     "debug": "^4.3.3",
-    "nanoid": "^3.3.4",
+    "nanoid": "^3.3.8",
     "node-fetch": "^2.6.7",
     "node-rest-client": "^3.1.1",
     "osc": "^2.4.2",
